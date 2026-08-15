@@ -3,7 +3,6 @@
 Electronics & Communication Engineering Graduate | Aspiring Software Engineer | 
 Python & C++ | Problem Solving | Constantly Learning
 </h3>
----
 
 - 🔭 I'm currently working on **Software Development and Python Projects**
 
@@ -18,9 +17,7 @@ Python & C++ | Problem Solving | Constantly Learning
 
 - 📫 How to reach me: **khushigadad313@gmail.com**
 
----
 <!-- ================= CONNECT WITH ME ================= -->
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -46,7 +43,6 @@ Python & C++ | Problem Solving | Constantly Learning
 </a>
 
 </p>
-
 
 <!-- ================= LANGUAGES AND TOOLS ================= -->
 
