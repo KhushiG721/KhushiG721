@@ -10,12 +10,13 @@ Python & C++ | Problem Solving | Constantly Learning
 
 - 👯 I'm looking to collaborate on **Software Development and Open Source Projects**
 
-- 👨‍💻 All of my projects are available on  
-  **[GitHub](https://github.com/KhushiG721)**
+- 👨‍💻 All of my projects are available on **https://github.com/KhushiG721**
 
 - 🔬 I have experience as a **Research Intern at IIIT Dharwad**
 
 - 📫 How to reach me: **khushigadad313@gmail.com**
+
+- ⚡ Achievements **Secured 1st place in National Level Technical Event "PIONEER 2025".**
 
 <!-- ================= CONNECT WITH ME ================= -->
 <h3 align="left">Connect with me:</h3>
@@ -43,7 +44,6 @@ Python & C++ | Problem Solving | Constantly Learning
 
 <p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60">&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60">&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60">&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60">&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60">&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"></p>
 
-- ⚡ Achievements **Secured 1st place in National Level Technical Event "PIONEER 2025".**
 <h2 align="center">🔥 GitHub Contribution Streak</h2>
 
 <p align="center">
