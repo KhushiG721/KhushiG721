@@ -19,76 +19,109 @@ Python & C++ | Problem Solving | Constantly Learning
 - 📫 How to reach me: **khushigadad313@gmail.com**
 
 ---
+<!-- ================= CONNECT WITH ME ================= -->
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
 
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/khushi-gadad-858786309/)" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
+<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/](https://www.linkedin.com/in/khushi-gadad-858786309/)" target="_blank">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+    alt="LinkedIn"
+    width="55"
+    height="55"
+  />
 </a>
 
-&nbsp;&nbsp;
-
-<a href="https://github.com/KhushiG721" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" width="40" />
-</a>
-
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:khushigadad313@gmail.com">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="40" width="40" />
+  <img
+    src="https://img.icons8.com/fluency/96/new-post.png"
+    alt="Email"
+    width="55"
+    height="55"
+  />
 </a>
 
 </p>
 
----
+
+<!-- ================= LANGUAGES AND TOOLS ================= -->
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
 
-<!-- Python -->
-<a href="https://www.python.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-alt="Python" width="50" height="50"/>
-</a>
-
-&nbsp;
-
 <!-- C -->
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-alt="C" width="50" height="50"/>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+    alt="C"
+    width="55"
+    height="55"
+  />
 </a>
 
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- C++ -->
 <a href="https://isocpp.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-alt="C++" width="50" height="50"/>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+    alt="C++"
+    width="55"
+    height="55"
+  />
 </a>
 
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<!-- Python -->
+<a href="https://www.python.org/" target="_blank">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    alt="Python"
+    width="55"
+    height="55"
+  />
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-alt="Git" width="50" height="50"/>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    alt="Git"
+    width="55"
+    height="55"
+  />
 </a>
-&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- GitHub -->
 <a href="https://github.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-alt="GitHub" width="50" height="50"/>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    alt="GitHub"
+    width="55"
+    height="55"
+  />
 </a>
 
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- VS Code -->
 <a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-alt="VS Code" width="50" height="50"/>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+    alt="VS Code"
+    width="55"
+    height="55"
+  />
 </a>
 
 </p>
