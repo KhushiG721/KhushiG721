@@ -16,7 +16,7 @@ Python & C++ | Problem Solving | Constantly Learning
 
 - 📫 How to reach me: **khushigadad313@gmail.com**
 
-- ⚡ Achievements **Secured 1st place in National Level Technical Event "PIONEER 2025".**
+- ⚡ Achievements: **Secured 1st place in National Level Technical Event "PIONEER 2025".**
 
 <!-- ================= CONNECT WITH ME ================= -->
 <h3 align="left">Connect with me:</h3>
