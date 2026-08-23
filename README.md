@@ -33,7 +33,7 @@ Python & C++ | Problem Solving | Constantly Learning
 <p align="center">
   <a href="https://github.com/KhushiG721">
     <img
-      src="https://streak-stats.demolab.com?user=KhushiG721"
+      src="https://streak-stats.demolab.com?user=KhushiG7221"
       alt="GitHub Streak"
     />
   </a>
