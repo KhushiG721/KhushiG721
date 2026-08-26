@@ -27,14 +27,3 @@ Python & C++ | Problem Solving | Constantly Learning
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"><a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"></a></p>
-
-<h2 align="center">🔥 GitHub Contribution Streak</h2>
-
-<p align="center">
-  <a href="https://github.com/KhushiG721">
-    <img
-      src="https://streak-stats.demolab.com/?user=KhushiG721"
-      alt="KhushiG721's GitHub Streak"
-    />
-  </a>
-</p>
