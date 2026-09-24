@@ -6,7 +6,7 @@ Python & C++ | Problem Solving | Constantly Learning
 
 - 🔭 I'm currently working on **Software Development and Python Projects**
 
-- 🌱 I'm currently learning **Python, Data Structures & Algorithms, OOP, Git & GitHub**
+- 🌱 I'm currently learning **Python, Data Structures & Algorithms, OOP, SQL, Git & GitHub**
 
 - 👯 I'm looking to collaborate on **Software Development and Open Source Projects**
 
@@ -26,4 +26,11 @@ Python & C++ | Problem Solving | Constantly Learning
 <!-- ================= LANGUAGES AND TOOLS ================= -->
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"><a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"></a></p>
+<p align="left"><a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://aws.amazon.com/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+    alt="AWS"
+    width="60"
+    height="60"
+  />
+</a><a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"></a></p>
