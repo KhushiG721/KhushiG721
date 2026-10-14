@@ -7,7 +7,7 @@ Python & C++ | Problem Solving | Constantly Learning
 - 🔭 I'm currently working on **Software Development and Python Projects**
 
 - 🌱 I'm currently learning **Python, Data Structures & Algorithms, OOP, SQL, Git & GitHub**
-
+- 
 - 👯 I'm looking to collaborate on **Software Development and Open Source Projects**
 
 - 👨‍💻 All of my projects are available on **https://github.com/KhushiG721**
@@ -17,7 +17,7 @@ Python & C++ | Problem Solving | Constantly Learning
 - 📫 How to reach me: **khushigadad313@gmail.com**
 
 - ⚡ Achievements: **Secured 1st place in National Level Technical Event "PIONEER 2025".**
-
+- 
 <!-- ================= CONNECT WITH ME ================= -->
 <h3 align="left">Connect with me:</h3>
 
