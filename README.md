@@ -7,7 +7,7 @@ Python & C++ | Problem Solving | Constantly Learning
 - 🔭 I'm currently working on **Software Development and Python Projects**
 
 - 🌱 I'm currently learning **Python, Data Structures & Algorithms, OOP, SQL, Git & GitHub**
-- 
+  
 - 👯 I'm looking to collaborate on **Software Development and Open Source Projects**
 
 - 👨‍💻 All of my projects are available on **https://github.com/KhushiG721**
